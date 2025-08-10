@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116548364499",
+    "project_id": "micro-book-app",
+    "storage_bucket": "micro-book-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116548364499:android:c06e5d3864142f5c178c26",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5gZDmmx2o9we56ZiXOsxAH38jhgm1SmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
